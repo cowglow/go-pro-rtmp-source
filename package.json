@@ -1,0 +1,10 @@
+{
+  "name": "go-pro-rtmp-source",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "rtmp-server": "^0.2.0"
+  }
+}
